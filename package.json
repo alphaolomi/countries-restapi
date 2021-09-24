@@ -13,6 +13,6 @@
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "start": "json-server index.js --port 8085 --middlewares ./header-middleware.js  --read-only"
+    "start": "json-server index.js --middlewares ./header-middleware.js  --read-only"
   }
 }
