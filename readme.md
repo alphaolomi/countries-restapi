@@ -1,4 +1,6 @@
 # Simple Countries REST API
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphaolomi%2Fcountries-restapi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphaolomi%2Fcountries-restapi?ref=badge_shield)
+
  
 API for getting information about countries.
 
@@ -74,3 +76,6 @@ API is based on [ISO 3166-1](https://en.wikipedia.org/wiki/ISO_3166-1) standard.
 ## 📝 License
 
 This API is licensed under [MIT](http://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falphaolomi%2Fcountries-restapi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falphaolomi%2Fcountries-restapi?ref=badge_large)
