@@ -9,11 +9,11 @@
     "country-emoji": "^1.5.6",
     "country-list": "^2.2.0",
     "countryjs": "^1.8.0",
+    "express-rate-limit": "^5.3.0",
     "i18n-iso-countries": "^6.8.0",
     "json-server": "^0.16.3"
   },
   "scripts": {
-    "start": "node server.js",
-    "start:simple": "json-server index.js --middlewares ./header-middleware.js  --read-only"
+    "start": "node server.js"  
   }
 }
